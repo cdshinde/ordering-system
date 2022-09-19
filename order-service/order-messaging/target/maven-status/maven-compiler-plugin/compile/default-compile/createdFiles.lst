@@ -1,3 +1,0 @@
-com\ordering\system\order\service\messaging\publisher\kafka\CancelOrderKafkaMessagePublisher.class
-com\ordering\system\order\service\messaging\listener\kafka\PublishResponseKafkaListener.class
-com\ordering\system\order\service\messaging\publisher\kafka\CreateOrderKafkaMessagePublisher.class
