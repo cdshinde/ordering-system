@@ -1,4 +1,4 @@
-package com.ordering.system.order.service.application.client.client;
+package com.ordering.system.order.service.application.client.rest;
 
 import com.ordering.system.order.service.application.service.dto.create.CreateOrderCommand;
 import com.ordering.system.order.service.application.service.dto.create.CreateOrderResponse;
